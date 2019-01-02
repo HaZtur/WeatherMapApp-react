@@ -1,9 +1,9 @@
 
- -------------------------------------
- |                                   |
- |           WeatherMapApp           |
- |                                   |
- -------------------------------------
+ 
+                                    
+            WeatherMapApp           
+                                    
+ 
 
 
 WeatherMapApp is a very simple React application utilizing 
