@@ -1,0 +1,4 @@
+export const UPDATE_MAP = "UPDATE_MAP";
+export const UPDATE_MARK = "UPDATE_MARK";
+export const UPDATE_FORECAST = "UPDATE_FORECAST";
+export const UPDATE_WEATHER = "UPDATE_WEATHER";

@@ -1,0 +1,19 @@
+.hiddenWrapper {
+    width: 900px;
+    height: 40px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 50px;
+    background-color: wheat;
+    border: 1px dotted black;
+    user-select: none;
+    box-shadow: 2px 3px 5px black;
+  }
+
+  .hiddenWrapper h2 {
+      margin: 0;
+      padding-left: 10px;
+      padding-top: 1px;
+      
+  }

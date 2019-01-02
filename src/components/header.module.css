@@ -1,0 +1,13 @@
+.headerWrapper {
+    height: 70px;
+    background-color: darkblue;
+    color: white;
+    margin: 0 auto;
+    user-select: none;
+    box-shadow: 0px 0px 10px black;
+}
+
+.headerWrapper h3{
+    padding: 20px 0px 0px 40px;
+    margin: 0;
+}

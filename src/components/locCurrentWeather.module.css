@@ -1,0 +1,10 @@
+.currentWeather {
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px dotted black;
+    margin: 20px 0px;
+    background-color: white;
+    width: 500px;
+  }
